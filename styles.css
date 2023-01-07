@@ -1,0 +1,95 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 800px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+} */
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 800px;
+}
+
+#logo {
+	height: 200px;
+	width: 200px;
+}
+
+.profilebuttons {
+	height: 50px;
+	width: 150px;
+	background-color: yellow;
+}
+
+
+#neighborhood {
+	height: 400px;
+	width: 800px;
+}
+
+.food {
+	margin-right: 2em;
+	display: inline;
+}
+
+.food a {
+	color: black;
+}
+
+.Park {
+	margin-right: 2em;
+	display: inline;
+}
+
+.Park a {
+	color: black;
+}
+
+.activity {
+	margin-right: 2em;
+	display: inline;
+}
+
+.activity a {
+	color: black;
+}
+
+.restaurant-header {
+	display: flex;
+	align-items: center;
+	margin-bottom: -10px;
+}
+
+#btn-recommend {
+	margin-left: 10px;
+	height: 20px;
+	border-radius: 5px;
+	background-color: darkseagreen;
+}
